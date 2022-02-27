@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "pkmn-maptracker-data",
+  "version": "0.0.1",
+  "description": "The general data definition and parsing functionality for the Pokémon map tracker rule sets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanEnsmann/PokemonMapTrackerData.git"
+  },
+  "author": "Stefan Ensmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StefanEnsmann/PokemonMapTrackerData/issues"
+  },
+  "homepage": "https://github.com/StefanEnsmann/PokemonMapTrackerData#readme"
+}
